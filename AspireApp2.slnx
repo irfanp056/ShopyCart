@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="AspireApp2.ApiService/AspireApp2.ApiService.csproj" />
+  <Project Path="AspireApp2.AppHost/AspireApp2.AppHost.csproj" />
+  <Project Path="AspireApp2.ServiceDefaults/AspireApp2.ServiceDefaults.csproj" />
+  <Project Path="AspireApp2.Web/AspireApp2.Web.csproj" />
+  <Project Path="Basket/Basket.csproj" />
+  <Project Path="Blazor/Blazor.csproj" />
+  <Project Path="Catalog/Catalog.csproj" />
+</Solution>
